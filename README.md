@@ -1,2 +1,2 @@
-# -js-home-work1
+# js-home-work1
  FullStack-розробник.  Java Script  JS HomeWork1
